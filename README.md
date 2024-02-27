@@ -1,1 +1,1 @@
-"# CornDiseaseImagesStorage" 
+# CornDiseaseImagesStorage
