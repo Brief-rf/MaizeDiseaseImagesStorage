@@ -1,1 +1,1 @@
-# CornDiseaseImagesStorage
+# MaizeDiseaseImagesStorage
